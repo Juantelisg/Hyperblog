@@ -9,6 +9,19 @@ body
 
 }
 
+#cabecera
+{
+
+    background: rgb(108, 108, 224);
+    color: white;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0.5em;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 75);
+
+}
+
+
 #container
 {
 
@@ -26,8 +39,16 @@ body
 
     font-size: 20px;
 
+}
 
+#tagline
+{
+    ;
+}
 
+#post
+{
+    padding: 1em;
 
 
 }
